@@ -1,5 +1,3 @@
-# README
-
 ## Unveiling the Rise of Electric Vehicles: A Data-Driven Insight
 
 ### Project Overview
